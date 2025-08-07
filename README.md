@@ -56,4 +56,5 @@
 
 `Команды использованные для github`
 1. `git add .`
-2. `git pull`
+2. `git сommit`
+3. `git push`
