@@ -13,7 +13,7 @@
 4. `Выполните все необходимые команды для установки Zabbix Server и Zabbix Web Server.`
 `Все действия выполнялись на виртуальной машине с адресом 192.168.0.107`
 
-`![Авторизация в zabbix админке](https://github.com/AlexanderSerg-jun/8-03hw/blob/img/zabbix_admin.png)`
+![Авторизация в zabbix админке](https://github.com/AlexanderSerg-jun/8-03hw/blob/img/zabbix_admin.png)`
 
 ---
 
@@ -35,9 +35,9 @@
 
 
 
-![Добавленые хосты](https://github.com/AlexanderSerg-jun/8-03hw/blob/img/configuration_hosts.png)`
-![Логи zabbix agent](https://github.com/AlexanderSerg-jun/8-03hw/blob/img/log_zabbix.png)`
-![Последние данные](https://github.com/AlexanderSerg-jun/8-03hw/blob/img/Latest_data.png)`
+![Добавленые хосты](https://github.com/AlexanderSerg-jun/8-03hw/blob/main/img/configuration_hosts.png)`
+![Логи zabbix agent](https://github.com/AlexanderSerg-jun/8-03hw/blob/main/img/log_zabbix.png)`
+![Последние данные](https://github.com/AlexanderSerg-jun/8-03hw/blob/main/img/Latest_data.png)`
 
 ---
 
