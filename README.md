@@ -37,7 +37,9 @@
 
 
 ![Добавленые хосты](https://github.com/AlexanderSerg-jun/8-03hw/blob/main/img/configuration_hosts.png)`
-![Логи zabbix agent](https://github.com/AlexanderSerg-jun/8-03hw/blob/main/img/log_zabbix.png)`
+
+![Логи](https://github.com/AlexanderSerg-jun/8-03hw/blob/main/img/log_zabbix.png)`
+
 ![Последние данные](https://github.com/AlexanderSerg-jun/8-03hw/blob/main/img/Latest_data.png)`
 
 
