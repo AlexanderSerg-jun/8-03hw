@@ -14,7 +14,7 @@
 
 ### `Все действия выполнялись на виртуальной машине с адресом 192.168.0.107`
 
-![Авторизация в zabbix админке](https://github.com/AlexanderSerg-jun/8-03hw/blob/img/zabbix_admin.png)`
+![Авторизация в zabbix админке](https://github.com/AlexanderSerg-jun/8-03hw/blob/main/img/zabbix_admin.png)`
 
 ---
 
