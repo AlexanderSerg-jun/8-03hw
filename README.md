@@ -13,9 +13,7 @@
 4. `Выполните все необходимые команды для установки Zabbix Server и Zabbix Web Server.`
 `Все действия выполнялись на виртуальной машине с адресом 192.168.0.107`
 
-
-`При необходимости прикрепитe сюда скриншоты
-![Авторизация в zabbix админке](https://github.com/AlexanderSerg-jun/8-03hw/img/zabbix_admin.png)`
+`![Авторизация в zabbix админке](https://github.com/AlexanderSerg-jun/8-03hw/img/zabbix_admin.png)`
 
 
 ---
